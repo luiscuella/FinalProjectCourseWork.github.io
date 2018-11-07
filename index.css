@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/1857/1857643-bigthumbnail.jpg')
+}
+
+#head {
+  font-size: 20px;
+   text-transform: capitalize;
+  font-family: Monospace;
+  color:yellow;
+}
+
+h1 {
+  
+ color: pink;
+}
